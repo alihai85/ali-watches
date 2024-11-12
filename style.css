@@ -7,23 +7,27 @@
 .main {
   max-width: 1440px;
   width: 100%;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: auto;
-  margin-right: auto;
+ margin-top: auto;
+ margin-bottom: auto;
+ margin-left: auto;
+ margin-right: auto;
   font-family: "work sans", serif;
   align-items: start;
-  padding-left: 40px;
-  padding-right: 20px;
-  padding-top: 48px;
-  padding-bottom: 48px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .sub-main {
   max-width: 1280px;
   width: 100%;
- 
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
 }
+
 
 .home {
   max-width: 86px;
@@ -33,6 +37,8 @@
   line-height: 14px;
   text-align: left;
   color: #485563;
+  
+ 
 }
 
 .name {
@@ -123,6 +129,7 @@
   margin-top: 24px;
   margin-bottom: 24px;
   max-width: 400;
+  
 }
 
 .grid-item {
