@@ -211,6 +211,7 @@
 .grid image {
   max-width: 405px;
   width: 100%;
+  
 }
 
 .card-title {
@@ -228,7 +229,8 @@ p {
   line-height: 20px;
   text-align: right;
   font: 20px;
-margin-top: 24px;
+  margin-top: 24px;
   color: #1f2937;
  
 }
+ 
