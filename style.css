@@ -129,11 +129,10 @@
   grid-template-columns: 3;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
-  
+  gap: 32px;
   margin-top: 80px;
   margin-bottom: 24px;
   max-width: 400;
-  gap: 32px;
   
 }
 
@@ -142,12 +141,12 @@
   flex-direction: row;
   background-color: #4caf50;
   color: white;
-
   text-align: center;
   border-radius: 2px;
   justify-content: space-between;
   margin-top: 24px;
   margin-bottom: 24px;
+  max-width: 405px;
   
 }
 
@@ -230,5 +229,5 @@ p {
   font: 20px;
 
   color: #1f2937;
-  margin-top: auto;
+  
 }
