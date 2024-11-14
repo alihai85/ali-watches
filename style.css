@@ -3,6 +3,7 @@
   padding: 0px;
   box-sizing: border-box;
   font-family: "work sans", serif;
+
 }
 
 .main {
@@ -48,15 +49,11 @@
 
 .product {
   
-  color: #4b5563;
-
- 
+ color: #4b5563;
  width: 100%;
  font-weight: 400;
  font-size: 24px;
  line-height: 24px;
-  
-
 
 }
 
@@ -69,16 +66,17 @@
   flex-direction: row;
   margin-left: 1162px;
   padding-top: 12px;
-  padding-bottom: 12px;
+  padding-bottom: 0px;
   padding-left: 8px;
   padding-right: 8px;
   gap: 9px;
   border-color: 1px solid #f9fafb;
-  
+ 
 }
 .filter-button img{
-  gap: 2px;
+  gap: 6px
 }
+
 .filter-button h4{
   font-weight: 400;
   color: #4B5563;
