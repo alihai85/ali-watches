@@ -50,7 +50,7 @@
   
   color: #4b5563;
 
- max-width:143px;
+ 
  width: 100%;
  font-weight: 400;
  font-size: 24px;
@@ -66,18 +66,18 @@
   width: 100%;
   display: flex;
   flex-direction: row;
-  
+  margin-left: 952px;
   padding-top: 12px;
   padding-bottom: 12px;
-  padding-left: 15px;
-  padding-right: 10px;
-  gap: 12px;
-  max-width: 97px;
- 
+  padding-left: 8px;
+  padding-right: 8px;
+  gap: 9px;
   border-color: 1px solid #f9fafb;
   
 }
-
+.filter-button img{
+  gap: 2px;
+}
 .filter-button h4{
   font-weight: 400;
   color: #4B5563;
@@ -96,22 +96,22 @@
  display: flex;
  flex-direction: row;
  justify-content: space-between;
- gap: 1030px;
+ 
   
   
 
 }
 .filter {
-  max-width: 97px;
-  width: 100%;
+ 
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   
+  
 }
 
 .filter {
-  top: 120px;
+ 
   left: 1263px;
   padding: 2px;
   display: flex;
