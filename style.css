@@ -65,6 +65,7 @@
   align-items: center;
   width: 100%;
   display: flex;
+  justify-content: space-between;
   flex-direction: row;
   margin-left: 1162px;
   padding-top: 12px;
