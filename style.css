@@ -10,10 +10,10 @@
  
   font-family: "work sans", serif;
   align-items: start;
-  margin-left: 80px;
-  margin-right: 80px;
-  margin-top: 48px;
-  margin-bottom: 48px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: auto;
  
 }
 
@@ -21,6 +21,11 @@
   max-width: 1280px;
   width: 100%;
  
+ margin-left: 80px;
+ margin-right: 80px;
+ margin-top: 48px;
+ margin-bottom: 48px;
+
  
 }
 
