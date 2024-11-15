@@ -94,7 +94,7 @@
   grid-template-columns: 3;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
-  gap: 32px;
+  gap: 80px;
   margin-top: 80px;
   
   margin-bottom: 24px;
