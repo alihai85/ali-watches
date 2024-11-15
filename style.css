@@ -11,7 +11,7 @@
   width: 100%;
   align-items: start;
   margin: 0px auto 0px auto;
-  padding: 80pxg;
+  
 }
 
 .sub-main {
@@ -19,6 +19,8 @@
   width: 100%;
  margin-left: auto;
  margin-right: auto;
+ margin-top: 48px;
+ margin-bottom: 48px;
 }
 
 
