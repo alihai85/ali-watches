@@ -112,6 +112,7 @@
   margin-top: 24px;
   margin-bottom: 24px;
   max-width: 405px;
+  
 }
 
 .item {
@@ -120,12 +121,14 @@
   justify-content: space-between;
   margin-top: 24px;
   margin-bottom: 0px;
+  
 }
 
 .item {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+ 
 }
 
 .item {
@@ -191,4 +194,7 @@ p {
   margin-top: 24px;
   color: #1f2937;
   margin-bottom: 50px;
+}
+.item img{
+  margin-top: -25px;
 }
