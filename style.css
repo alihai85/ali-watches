@@ -97,7 +97,8 @@
   grid-template-columns: 3;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
-  gap: 80px;
+  gap:6
+  0px;
   margin-top: 80px;
   
   margin-bottom: 48px;
@@ -138,11 +139,12 @@ p {
   text-align: right;
  margin-bottom: 80px;
   color: #1f2937;
-margin-top: 15px;
+margin-top: 48px;
   
 }
 .item{
  justify-content: space-between;
   display: flex;
   flex-direction: row;
+  
 }
